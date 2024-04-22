@@ -9,7 +9,7 @@ Projeto intermediário Backend: o intuito da minha api é para criar um time de 
 - Framework Spring
 
 # Rotas 
--'/ajuda' e team para get e post
+- '/ajuda' e team para get e post
 
 # Uso
 - Acesse a API através do endpoint: http://localhost:8080
