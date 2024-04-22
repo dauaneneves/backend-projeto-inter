@@ -1,4 +1,4 @@
-﻿# backend-projeto-inter
+﻿# Backend Projeto Intermediário
 
 Projeto intermediário Backend: o intuito da minha api é para criar um time de futebol, onde ao escrever o nome dos jogadores mostrará informações sobre eles. E ao usar o get ele mostrará todos os jogadores que já foram adicionados ao time.
 
